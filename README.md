@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I stayed up the whole night to finish a coding project for university**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
